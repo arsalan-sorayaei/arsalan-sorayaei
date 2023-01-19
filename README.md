@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @arsalan-sorayaei
 - 👀 I’m interested in NLP,Transformers
-- 🌱 I’m currently learning DeepLearning
-- 💞️ I’m looking to collaborate on Data Science
+- 🌱 I’m currently learning NLP
+- 💞️ I’m looking to collaborate on Data Science projects
 - 📫 How to reach me arsalan.sorayaei@gmail.com
 
 <!---
